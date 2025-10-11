@@ -86,7 +86,7 @@ Clean code practices, DDD, and architectural scalability
 
 ---
 
-**Full Stack Developer | .NET  | API | FC Barcelona supporter 💜⚽**
+**Full Stack Developer | .NET  | API **
 
 _Sana'a, Yemen_
 
