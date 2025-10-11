@@ -7,8 +7,8 @@
 ### How to reach me: _(Click the badge to view my profiles!)_
 
 [![Email](https://img.shields.io/badge/Email-Engmoath04@gmail.com-darkgrey?style=for-the-badge&logo=gmail)](mailto:Engmoath04@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-maandammaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maan_.3/#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maandammaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maandammaj)
+[![Instagram](https://img.shields.io/badge/Instagram-Engmoath04-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maan_.3/#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Engmoath04-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maandammaj)
 
 ---
 
