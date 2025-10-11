@@ -51,7 +51,7 @@ Clean code practices, DDD, and architectural scalability
 
 ⚙️ Tech Stack
 
-.NET 5/6/7 • ASP.NET Core MVC • Entity Framework Core • RabbitMQ • MediatR • Polly • SQL Server • Clean Architecture • AI Integration
+.NET 5/6/7/8/9 • ASP.NET Core MVC • Entity Framework Core • RabbitMQ • MediatR • Polly • SQL Server • Clean Architecture • AI Integration
 
 ---
 
