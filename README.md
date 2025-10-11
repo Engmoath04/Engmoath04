@@ -1,24 +1,58 @@
-# Hi there, I'm Mouth ALMEKHLAFU 👋
+👋 Hi, I'm Moath Almekhlafi 
 
-✨ Welcome to my GitHub profile! ✨
+🚀 Engineer | Full-Stack .NET Developer | Systems Architect
 
 ---
 
 ### How to reach me: _(Click the badge to view my profiles!)_
 
 [![Email](https://img.shields.io/badge/Email-Engmoath04@gmail.com-darkgrey?style=for-the-badge&logo=gmail)](mailto:Engmoath04@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Engmoath04-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maan_.3/#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Engmoath04-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maandammaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Engmoath04-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moath-al-mekhlafi-974ab8310)
 
 ---
 
-## Here are some ideas to help you get started:
+💡 Passionate about building scalable, event-driven, and intelligent systems that bridge backend performance with clean architecture and AI-driven logic.
 
-🛠️ I'm currently working on **Full-Stack Web Development** and **Open Source Contributions**  
-🌟 I'm continuously learning and improving my skills in design patterns, RESTful services, and secure authentication using .NET Framework  
-🔍 I'm looking to collaborate on **Back-End Web Dev Projects**  
-🤝 I'm looking to collaborate on challenging projects that push the boundaries of web development  
-💬 Ask me about **Data Structures in C++**  
+🔧 What I’m Working On
+
+Developing Clean Architecture ASP.NET Core applications with SQL Server and domain-driven design
+
+Building reusable libraries and frameworks for RabbitMQ-based event-driven systems
+
+Engineering dynamic real estate and configuration-driven platforms with adaptive UIs and metadata-based entities
+
+
+🧠 What I’m Exploring
+
+Advanced design patterns and SOLID principles for maintainable code
+
+AI integration within enterprise .NET ecosystems
+
+Runtime task management and intelligent monitoring services in distributed environments
+
+
+🤝 Collaboration Interests
+
+Complex back-end services and high-performance systems
+
+Open-source tools for .NET developers
+
+Projects involving automation, AI-assisted decision systems, and real-time data pipelines
+
+
+💬 Ask Me About
+
+RabbitMQ Event Bus design and retry policies with Polly
+
+Dynamic property systems and runtime JSON schema validation
+
+Clean code practices, DDD, and architectural scalability
+
+
+⚙️ Tech Stack
+
+.NET 5/6/7 • ASP.NET Core MVC • Entity Framework Core • RabbitMQ • MediatR • Polly • SQL Server • Clean Architecture • AI Integration
+
 ---
 
 ## Tools I work upon 🛠️
@@ -52,7 +86,7 @@
 
 ---
 
-**Full Stack Developer | .NET | flutter | API | FC Barcelona supporter 💜⚽**
+**Full Stack Developer | .NET  | API | FC Barcelona supporter 💜⚽**
 
 _Sana'a, Yemen_
 
