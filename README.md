@@ -69,16 +69,9 @@ Clean code practices, DDD, and architectural scalability
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" />
 </div>
 
----
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Engmoath04&layout=compact&theme=radical)
-
----
 
 **Full Stack Developer | .NET  | API **
 
